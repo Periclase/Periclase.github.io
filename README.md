@@ -1,2 +1,3 @@
-# SmartFractyl.github.io
-Repository for my personal website.
+# About
+Repository for my personal website which can be found [here](http://smartfractyl.github.io/ "Website!").
+
